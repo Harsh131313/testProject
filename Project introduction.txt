@@ -2,3 +2,10 @@ I think the best app or software which can be very useful nowadays is a PARK ME 
 (a) It will help the individual to get the knowledge and get the idea to where to park the vehicle as this app will identify and tell the driver that where is the  free parking space  and--
 (b)  It will also tell that which car is going to be parked there so that you can go before that vehicle and park your car .  
 I  think this software will help all the people living in every corner of the world because the transportation is wide in all over the world and all people are using it for travelling so the parking is also an important thing, so this will help in a great way for the indivisuals.
+
+Functions of the project:--
+The project will have the following functions:--
+(1) It will help people in such way that there will be huge timesaving that sometime gets waste because of no available space.
+(2) It will be the fastest way of getting the space for parking .
+(3 It will be functioned easily with the help of the phone and even in the low network area , as it will just consume 9kb data for the searching only.
+(4) Helps individual to get the knowledge about which vehicle which is coming before them , so that they may place their  vehicle at first .
